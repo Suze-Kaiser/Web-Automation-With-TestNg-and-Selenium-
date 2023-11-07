@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efd5e950-40be-4b88-b866-22384b6d9700" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Xafmk46PJXKAGJ5cXNJAA0iOM9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Intellij/Projects/SQAProject01/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Intellij\Projects\SQAProject01\src\main\resources" />
+      <recent name="H:\Intellij\Projects\SQAProject01\src\main\java\properties" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.H:/Intellij/Projects/SQAProject01/testng.xml">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="SQAProject01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H:/Intellij/Projects/SQAProject01/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SQAProject01" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBookListPageOne" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SQAProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestScripts" />
+      <option name="MAIN_CLASS_NAME" value="TestScripts.TestBookListPageOne" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.clickOnBookList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SQAProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestScripts" />
+      <option name="MAIN_CLASS_NAME" value="TestScripts.TestHomePage" />
+      <option name="METHOD_NAME" value="clickOnBookList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSetup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SQAProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestScripts" />
+      <option name="MAIN_CLASS_NAME" value="TestScripts.TestSetup" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSetup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SQAProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestScripts" />
+      <option name="MAIN_CLASS_NAME" value="TestScripts.TestSetup" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.H:/Intellij/Projects/SQAProject01/testng.xml" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="TestNG.TestSetup" />
+        <item itemvalue="TestNG.TestBookListPageOne" />
+        <item itemvalue="TestNG.TestHomePage.clickOnBookList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd5e950-40be-4b88-b866-22384b6d9700" name="Changes" comment="" />
+      <created>1698872274907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698872274907</updated>
+      <workItem from="1698872276467" duration="8853000" />
+      <workItem from="1698907591512" duration="2071000" />
+      <workItem from="1698912487016" duration="637000" />
+      <workItem from="1698919628014" duration="2034000" />
+      <workItem from="1698950246691" duration="2885000" />
+      <workItem from="1698959796796" duration="1135000" />
+      <workItem from="1698961184511" duration="578000" />
+      <workItem from="1698961950891" duration="3958000" />
+      <workItem from="1699003903517" duration="14691000" />
+      <workItem from="1699022656950" duration="732000" />
+      <workItem from="1699055397937" duration="19105000" />
+      <workItem from="1699088212437" duration="4664000" />
+      <workItem from="1699093726291" duration="1105000" />
+      <workItem from="1699101108283" duration="4824000" />
+      <workItem from="1699132311816" duration="2632000" />
+      <workItem from="1699149247904" duration="1225000" />
+      <workItem from="1699232552027" duration="179000" />
+      <workItem from="1699245435780" duration="246000" />
+      <workItem from="1699245827872" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestScripts/TestSetup.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="21" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
